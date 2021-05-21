@@ -1,0 +1,19 @@
+{
+  "name": "execution-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bench/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "8.2.4",
+    "ast-types": "0.14.2",
+    "astring": "1.7.4",
+    "benchmark": "2.1.4",
+    "escodegen": "2.0.0",
+    "isolated-vm": "4.2.0",
+    "require-from-string": "2.0.2",
+    "vm2": "3.9.3"
+  }
+}
